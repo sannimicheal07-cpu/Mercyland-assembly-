@@ -1,0 +1,27 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prayer Request | GOFAMINT Mercyland</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="logo-container">
+    <img src="logo.png" alt="GOFAMINT Mercyland Logo">
+    <h1>THE GOSPEL FAITH MISSION INT'L</h1>
+    <h2>MERCYLAND ASSEMBLY</h2>
+  </div>
+
+  <div class="form-container">
+    <h3>Drop Your Prayer Request</h3>
+    <form action="#" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email (optional)">
+      <textarea name="prayer" placeholder="Type your prayer request..." required></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</body>
+</html>
+```
